@@ -1,0 +1,11 @@
+# Project exclude paths
+/out/
+/springMVC-annoation/target/
+/springMVC-demo1/target/
+/springMVC-demo2/target/
+/springMVC-demo3/target/
+/SpringMVC-demo4/target/
+/springMVC-demo5/target/
+/springMVC-demo6/target/
+/springMVC-helloworld/target/
+/springMVC-rest/target/
